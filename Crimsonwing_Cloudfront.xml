@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE config>
+<config>
+    <modules>
+        <Crimsonwing_Cloudfront>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Crimsonwing_Cloudfront>
+    </modules>
+</config>

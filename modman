@@ -1,0 +1,8 @@
+# Crimsonwing Cloudfront
+
+code                                app/code/local/Crimsonwing/Cloudfront/
+admin/layout/*                      app/design/adminhtml/default/default/layout/
+admin/template                      app/design/adminhtml/default/default/template/cwcloudfront
+locale                              app/locale/
+
+Crimsonwing_Cloudfront.xml          app/etc/modules/Crimsonwing_Cloudfront.xml
